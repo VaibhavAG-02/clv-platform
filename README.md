@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Features (ALL WORKING - NO DEMOS)
+## 🎯 Features
 
 ### 1. CLV Prediction ✅
 - **Multiple ML Models**: Linear Regression & Random Forest
